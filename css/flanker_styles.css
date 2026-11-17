@@ -1,0 +1,8 @@
+.jspsych-content { max-width: 850px; font-family: inherit; font-size: 20px; line-height: 1.5; }
+.instruction { padding: 24px; }
+.continue { margin-top: 32px; font-weight: bold; }
+.flanker-stim, .example { font-family: "Courier New", monospace; font-variant-ligatures: none; white-space: pre; }
+.flanker-stim { font-size: 48px; line-height: 1; }
+.arrow-row { display: inline-flex; align-items: center; }
+.example { font-size: 32px; margin: 20px 0 8px; }
+.fixation { font: 40px/1 "Courier New", monospace; }

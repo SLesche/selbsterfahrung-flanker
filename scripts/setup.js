@@ -2,7 +2,7 @@
 
 // ZENTRALER SETUP-BLOCK: Hier lässt sich die Aufgabe anpassen.
 const CONFIG = Object.freeze({
-  testingMode: true, // true = 4 Übungstrials und 2 Trials pro Hauptblock
+  testingMode: false, // true = 4 Übungstrials und 2 Trials pro Hauptblock
   blocks: 5,
   trialsPerBlock: 60,
   percentCongruent: 50, // 0–100; Anzahl je Block wird auf ganze Trials gerundet.

@@ -6,7 +6,7 @@ const CONFIG = Object.freeze({
   blocks: 5,
   trialsPerBlock: 60,
   percentCongruent: 50, // 0–100; Anzahl je Block wird auf ganze Trials gerundet.
-  practiceTrials: 20,
+  practiceTrials: 2,
   practiceMinAccuracy: 0.8, // Mindestens 80 % pro Übungsdurchgangsblock
   stimulusFontSizePx: 64, // Schriftgröße der Pfeile in Pixeln
   feedbackFontSizePx: 40, // Eigene Schriftgröße des Übungsfeedbacks in Pixeln
